@@ -1,11 +1,11 @@
 <div align="center">
-      <h1> <img src="https://i.imgur.com/SK0kuMu.png" width="80px"><br/>Bitcoin Sentiment & Price Analysis</h1>
-      <h2> Members
+      <h1> <img src="https://i.imgur.com/SK0kuMu.png" width="80px"><br/>Bitcoin Sentiment & Price Analysis<br/>DAT100</h1>
+      <h3> Members
             
 ### Abdelrahman Sobeih - 202110620
 ### Ayman Sahyoun - 202110003
 ### Ali Alzaabi - 202020176
-### Mukit Iqbal - 202110137<h2></div>
+### Mukit Iqbal - 202110137<h3></div>
 
 
 
