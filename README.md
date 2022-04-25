@@ -34,7 +34,7 @@ Give them a glimpse of the huge world of cryptocurrencies and how certain things
 ![](https://i.imgur.com/alRR4xS.png)
 
 - Now for adding the required csv files, simply click on the folder button on the left side of the screen and drag in the files:
-![](https://i.imgur.com/euIc4Ok.png)then click "OK" on the prompt that shows up on the screen.
+![](https://i.imgur.com/euIc4Ok.png)  then click "OK" on the prompt that shows up on the screen.
 
 ----
 
