@@ -12,7 +12,7 @@
 # Description
 A project on identifiyng future bitcoin prices, analyzing sentiment of bitcoin from Twitter and Ajman University students
 
-# Features
+# Datasets & Outcomes
 In this notebook there are three datasets:
 
 - The first one is about bitcoin prices where we discuss the prices of bitcoin over the years.
