@@ -41,8 +41,8 @@ Give them a glimpse of the huge world of cryptocurrencies and how certain things
 ### Usage of Libraries/Imports
 | Library | Usage |
 | ----------- | ----------- |
-| Pycaret: | Used for attribute selection and model rating/performance based on given data. |
-| Plotly GO: | Plotly's Graph Object (GO) was used for in-depth data visualization of our Bitcoin datasets. |
-| Plotly EX: | Plotly Express (EX) is a 'syntax-truncated' version of Plotly's GO, for ease of use on more simple visualization tasks.|
-| TextBlob: | Used for text analysis and sentiment score acquisition. |
-| NLTK: | Used for reading corpus files for stopword removal in textual data. |
+| Pycaret | Used for attribute selection and model rating/performance based on given data. |
+| Plotly GO | Plotly's Graph Object (GO) was used for in-depth data visualization of our Bitcoin datasets. |
+| Plotly EX | Plotly Express (EX) is a 'syntax-truncated' version of Plotly's GO, for ease of use on more simple visualization tasks.|
+| TextBlob | Used for text analysis and sentiment score acquisition. |
+| NLTK | Used for reading corpus files for stopword removal in textual data. |
