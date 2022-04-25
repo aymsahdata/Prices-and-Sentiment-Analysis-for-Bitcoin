@@ -34,13 +34,17 @@ The outcomes of this project:
 
 ### Loading Files & Libraries in Colab:
 - First, change runtime type to GPU Acceleration through the "Runtime" tab under the name of the project in the top left and then selecting "Change runtime type" and changing the Hardware accelerator to "GPU":
+                                                                                                                              
 ![](https://i.imgur.com/4FvdMWk.png)
 
 - Then, connect to the runtime using the "Connect" button on the right and proceed to import all libraries by running the cells under the first section:
+                                                                                                                              
 ![](https://i.imgur.com/alRR4xS.png)
 
 - Now for adding the required csv files, simply click on the folder button on the left side of the screen and drag in the files:
-![](https://i.imgur.com/euIc4Ok.png)  then click "OK" on the prompt that shows up on the screen.
+                                                                                                                              
+![](https://i.imgur.com/euIc4Ok.png)  
+then click "OK" on the prompt that shows up on the screen.
 
 ----
 
