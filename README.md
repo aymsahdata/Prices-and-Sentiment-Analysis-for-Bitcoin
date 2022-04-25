@@ -30,7 +30,7 @@ Give them a glimpse of the huge world of cryptocurrencies and how certain things
 - First, change runtime type to GPU Acceleration through the "Runtime" tab under the name of the project in the top left and then selecting "Change runtime type" and changing the Hardware accelerator to "GPU":
 ![](https://i.imgur.com/4FvdMWk.png)
 
-- Then, connect to the runtime using the "Connect" button on the right and proceed to import all libraries by running the cells in the "importing libraries that we are going to use" section:
+- Then, connect to the runtime using the "Connect" button on the right and proceed to import all libraries by running the cells under the first section:
 ![](https://i.imgur.com/alRR4xS.png)
 
 - Now for adding the required csv files, simply click on the folder button on the left side of the screen and drag in the files:
