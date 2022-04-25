@@ -13,13 +13,13 @@
 A project on identifiyng future bitcoin prices, analyzing sentiment of bitcoin from Twitter and Ajman University students
 
 # Datasets & Outcomes
-In this notebook there are three datasets:
+<b/>In this notebook there are three datasets:</b>
 
 - The first one is about bitcoin prices where we discuss the prices of bitcoin over the years.
 - The second one is about the sentiment analysis where we have a look at what people think about bitcoin.
 - The third and last dataset is a simple dataset taken from a survey we made for Ajman University (AU) students to see what they think of Bitcoin.
 
-The outcomes of this project:
+<b/>The outcomes of this project:</b>
 
 - To ensure that our audience have good understanding of what Bitcoin is.
 - Give them a glimpse of the huge world of cryptocurrencies and how certain things can be a bit opinionated from different perspectives.
