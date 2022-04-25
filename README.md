@@ -22,7 +22,7 @@ Give them a glimpse of the huge world of cryptocurrencies and how certain things
 # Tech Used
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
       
-# Instructions:
+# Instructions
 
 ### [---> Link to Project on Google Colab <---](https://colab.research.google.com/drive/1Mb4o_-rHkEKSHxqNxb5QG34vl8nLi3tJ?usp=sharing)
 
