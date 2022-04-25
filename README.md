@@ -30,7 +30,7 @@ The outcomes of this project:
       
 # Instructions
 
-### [---> Link to Project on Google Colab <---](https://colab.research.google.com/drive/1Mb4o_-rHkEKSHxqNxb5QG34vl8nLi3tJ?usp=sharing)
+### [---> Link to Project on Google Colab <---](https://colab.research.google.com/drive/1lp1SbhKdEEfl3bsvSaIq7UBDfIpRveXW?usp=sharing)
 
 ### Loading Files & Libraries in Colab:
 - First, change runtime type to GPU Acceleration through the "Runtime" tab under the name of the project in the top left and then selecting "Change runtime type" and changing the Hardware accelerator to "GPU":
