@@ -1,5 +1,5 @@
 <div align="center">
-      <h1> <img src="https://i.imgur.com/SK0kuMu.png" width="80px"><br/>Bitcoin Sentiment & Price Analysis<br/>DAT100</h1>
+      <h1> <img src="https://i.imgur.com/eXzHRid.png" width="80px"><br/>Bitcoin Sentiment & Price Analysis<br/>DAT100</h1>
       <h3> Members
             
 ### Abdelrahman Sobeih - 202110620
