@@ -30,8 +30,14 @@ A project on identifiyng future bitcoin prices, analyzing sentiment of bitcoin f
       
 # Instructions
 
-### [---> Link to Project on Google Colab](https://colab.research.google.com/drive/1lp1SbhKdEEfl3bsvSaIq7UBDfIpRveXW?usp=sharing)
-### [---> Download required CSV files from here](https://github.com/aymsahdata/Prices-and-Sentiment-Analysis-for-Bitcoin/tree/main/Required%20CSV%20Files)
+### Main:
+- ### [Link to Project on Google Colab](https://colab.research.google.com/drive/1lp1SbhKdEEfl3bsvSaIq7UBDfIpRveXW?usp=sharing)
+- ### [Download required CSV files from here](https://github.com/aymsahdata/Prices-and-Sentiment-Analysis-for-Bitcoin/tree/main/Required%20CSV%20Files)
+
+### Data Visulization Only:
+- ### [Link to only Data Viz Project](https://colab.research.google.com/drive/1XNn2izfQxKgGIf3FjnmgoXPwqpfruo8J?authuser=1#scrollTo=t-kJPWosHC9I)
+- ### [Download Data Viz files](https://github.com/aymsahdata/Prices-and-Sentiment-Analysis-for-Bitcoin/raw/main/Data%20Viz%20files.rar)
+
 ### Loading Files & Libraries in Colab:
 - First, change runtime type to GPU Acceleration through the "Runtime" tab under the name of the project in the top left and then selecting "Change runtime type" and changing the Hardware accelerator to "GPU":
                                                                                                                               
