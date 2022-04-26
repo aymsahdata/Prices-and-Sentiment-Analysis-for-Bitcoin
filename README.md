@@ -15,9 +15,9 @@ A project on identifiyng future bitcoin prices, analyzing sentiment of bitcoin f
 # Datasets & Outcomes
 <b/>In this notebook there are three datasets:</b>
 
-- The first one is about bitcoin prices where we discuss the prices of bitcoin over the years.
-- The second one is about the sentiment analysis where we have a look at what people think about bitcoin.
-- The third and last dataset is a simple dataset taken from a survey we made for Ajman University (AU) students to see what they think of Bitcoin.
+- The first one is about bitcoin prices where we discuss the prices of bitcoin over the years. <b/>(Kaggle)</b>
+- The second one is about the sentiment analysis where we have a look at what people think about bitcoin. </b>(Twitter/Kaggle)</b>
+- The third and last dataset is a simple dataset taken from a survey we made for Ajman University (AU) students to see what they think of Bitcoin. </b>(Personal Survey)</b>
 
 <b/>The outcomes of this project:</b>
 
